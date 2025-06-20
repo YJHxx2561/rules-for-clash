@@ -1,6 +1,8 @@
 # 内容：海外游戏列表
 # 域名关键字匹配
 # DOMAIN-KEYWORD,openai
+
+#honor of kings
 DOMAIN-SUFFIX,hok-dr.intlgame.com
 DOMAIN-SUFFIX,hok.intlgame.com
 DOMAIN-SUFFIX,intlgame.com
