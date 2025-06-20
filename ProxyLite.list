@@ -3,7 +3,12 @@
 #add
 DOMAIN-KEYWORD,google
 
-
+#机场域名
+DOMAIN-SUFFIX,llg01.com
+DOMAIN-KEYWORD,mitce
+DOMAIN-SUFFIX,xn--9kqz23b19z.com
+DOMAIN-SUFFIX,aisu.me
+DOMAIN-SUFFIX,fscloud.cc
 
 
 
