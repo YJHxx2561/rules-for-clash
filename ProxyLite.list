@@ -12,7 +12,11 @@ DOMAIN-SUFFIX,fscloud.cc
 
 
 #其他域名
-DOMAIN-SUFFIX,v2rayssr
+DOMAIN-KEYWORD,v2rayssr
+
+#测试
+DOMAIN-SUFFIX,ipv6.yjhweb.vip
+
 
 
 
