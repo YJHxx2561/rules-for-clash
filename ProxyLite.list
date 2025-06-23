@@ -20,8 +20,11 @@ DOMAIN-SUFFIX,ipv6.yjhweb.vip
 
 
 #proton mail
+DOMAIN-SUFFIX,pm.me
 DOMAIN-SUFFIX,proton.me
-
+DOMAIN-SUFFIX,protonmail.ch
+DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,protonstatus.com
 
 
 
