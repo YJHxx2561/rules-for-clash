@@ -9,6 +9,12 @@ DOMAIN-KEYWORD,zerotier
 #服务器ip
 IP-CIDR,154.82.136.181/32,no-resolve
 
+#机场节点
+DOMAIN-SUFFIX,liangxin1.xyz
+IP-CIDR,132.226.117.48/32,no-resolve
+IP-CIDR,129.153.119.42/32,no-resolve
+IP-CIDR,79.72.81.183/32,no-resolve
+
 
 
 #spaceship
