@@ -21,7 +21,7 @@ IP-CIDR,79.72.81.183/32,no-resolve
 DOMAIN-SUFFIX,spaceship.com
 
 #cloudns.net
-#DOMAIN-SUFFIX,cloudns.net
+DOMAIN-SUFFIX,cloudns.net
 
 
 # MyList
