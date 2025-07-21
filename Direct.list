@@ -16,6 +16,8 @@ IP-CIDR,129.153.119.42/32,no-resolve
 IP-CIDR,79.72.81.183/32,no-resolve
 
 
+#无线云盘
+DOMAIN-SUFFIX,bestfile.io
 
 #spaceship
 DOMAIN-SUFFIX,spaceship.com
