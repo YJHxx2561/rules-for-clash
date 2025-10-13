@@ -125,6 +125,7 @@ default: &default
     - 直连
     - 所有-手动
     - 所有-自动
+    - 所有-自动2
     - 香港-故转
     - 台湾-故转
     - 日本-故转
@@ -186,6 +187,14 @@ proxy-groups:
     tolerance: 50
     interval: 300
     filter: "^((?!(直连|拒绝)).)*$"
+
+  - name: 所有-自动2
+    type: url-test
+    include-all: true
+    tolerance: 50
+    interval: 300
+    filter: "^((?!(直连|拒绝)).)*$"
+
 
   # 香港组
   - name: 香港-故转
