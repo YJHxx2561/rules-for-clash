@@ -247,7 +247,7 @@ proxy-groups:
   - {name: 国内, <<: *default}
   - {name: 其他, <<: *default}
 
-- name: 所有-默认代理
+  - name: 所有-默认代理
     type: select
     include-all: true
     filter: "^((?!(直连|拒绝)).)*$"
@@ -257,7 +257,7 @@ proxy-groups:
     include-all: true
     filter: "^((?!(直连|拒绝)).)*$"
 
-    - name: 所有-手动2
+  - name: 所有-手动2
     type: select
     include-all: true
     filter: "^((?!(直连|拒绝)).)*$"
@@ -431,7 +431,8 @@ rules:
 
   - RULE-SET,GlobalDirect / Domain,全球直连
   - RULE-SET,MyDomain / Domain,我的域名
-  - RULE-SET,18comic / Domain,18comic
+  - RULE-SET,18comic1 / Domain,18comic
+  - RULE-SET,18comic2 / Domain,18comic
   - RULE-SET,ProxyLite / Domain,轻量代理
   - RULE-SET,TEST / Domain,Test
   - RULE-SET,Block / Domain,Block  
@@ -497,8 +498,8 @@ rule-anchor:
 
 rule-providers:
   ProxyLite / Domain: {<<: *class, url: "https://raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/ProxyLite.list"}
-  18comic / Domain: {<<: *class, url: "https://raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/Singapore.list"}
-  18comic / Domain: {<<: *class, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/18comic.list"}
+  18comic1 / Domain: {<<: *class, url: "https://raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/Singapore.list"}
+  18comic2 / Domain: {<<: *class, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/18comic.list"}
   MyDomain / Domain: {<<: *class, url: "https://raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/mydomain.list"}
   GlobalDirect / Domain: {<<: *class, url: "https://raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/Direct.list"}
   TEST / Domain: {<<: *class, url: "https://raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/clash-main/list/Check.list"}
@@ -555,6 +556,7 @@ rule-providers:
   
 
 #  GateFireWall / Domain: {<<: *domain, url: "https://github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/gfw.mrs"}
+
 
 
 
