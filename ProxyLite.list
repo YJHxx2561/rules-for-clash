@@ -1,7 +1,7 @@
 # 代理补充列表
 
 #add
-DOMAIN-KEYWORD,google
+#DOMAIN-KEYWORD,google
 
 #机场域名
 DOMAIN-SUFFIX,llg01.com
