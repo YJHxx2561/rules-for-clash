@@ -494,6 +494,7 @@ rule-anchor:
 rule-providers:
   ProxyLite / Domain: {<<: *class, url: "https://raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/ProxyLite.list"}
   18comic / Domain: {<<: *class, url: "https://raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/Singapore.list"}
+  18comic / Domain: {<<: *class, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/18comic.list"}
   MyDomain / Domain: {<<: *class, url: "https://raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/mydomain.list"}
   GlobalDirect / Domain: {<<: *class, url: "https://raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/Direct.list"}
   TEST / Domain: {<<: *class, url: "https://raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/clash-main/list/Check.list"}
@@ -550,4 +551,5 @@ rule-providers:
   
 
 #  GateFireWall / Domain: {<<: *domain, url: "https://github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/gfw.mrs"}
+
 
