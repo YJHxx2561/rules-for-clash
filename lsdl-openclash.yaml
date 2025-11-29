@@ -35,6 +35,15 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 直连
+  一分机场:
+    url: "https://www.yfjc.xyz/api/v1/client/subscribe?token=ea75b360835fc61ce91b71305d8e376a"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 直连
   Mitce机场:
     url: "https://substore.hk.yjhup.com/substore/download/mitce"
     type: http
