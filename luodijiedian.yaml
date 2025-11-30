@@ -9,4 +9,4 @@ proxies:
   - {name: 🇯🇵 落地jp-fsyiij-sk5, dialer-proxy: 中转节点, server: 158.51.110.22, port: 57042, type: socks5, username: zZOGLheQgG, password: he8yTlytiV}
   - {name: 🇯🇵 落地jp-fsyiij-http, dialer-proxy: 中转节点, server: 158.51.110.22, port: 57033, type: http, username: 7iRHASA9IJ, password: UsoI6uhSJv}
   - {name: 🇯🇵 落地jp-fsyiij-http-443, dialer-proxy: 中转节点, server: 158.51.110.22, port: 443, type: http, username: If7UyBJ8Nf, password: oOEKRm2IBi}
-  - {name: 🇯🇵 落地jp-akile-http-8080, dialer-proxy: 中转节点, server: 158.51.110.22, port: 443, type: http, username: O0o2Kubzvb, password: DSGjqrwnaz}
+  - {name: 🇯🇵 落地jp-akile-http-8080, dialer-proxy: 中转节点, server: 154.83.93.192, port: 8080, type: http, username: O0o2Kubzvb, password: DSGjqrwnaz}
