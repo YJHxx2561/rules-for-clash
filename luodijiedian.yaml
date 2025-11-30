@@ -11,3 +11,4 @@ proxies:
   - {name: 🇯🇵 落地jp-fsyiij-http-443, dialer-proxy: 中转节点, server: 158.51.110.22, port: 443, type: http, username: If7UyBJ8Nf, password: oOEKRm2IBi}
   - {name: 🇯🇵 落地jp-akile-http-8080, dialer-proxy: 中转节点, server: 154.83.95.35, port: 8080, type: http, username: O0o2Kubzvb, password: DSGjqrwnaz}
   - {name: 🇯🇵 落地jp-akile-http-32016, dialer-proxy: 中转节点, server: 154.83.95.35, port: 32016, type: http, username: yRQ5yuuQ4H, password: Fh8kNDdvTg}
+  - {name: 🇯🇵 落地jp-akile7.3-http-8080, dialer-proxy: 中转节点, server: 45.192.249.213, port: 8080, type: http, username: 97yzVMFWQy, password: YjXecAxgLZ}
