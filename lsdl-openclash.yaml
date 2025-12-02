@@ -115,31 +115,31 @@ proxies:
 
 
 proxy-groups:
-  - {name: 🚀 默认代理, type: select, proxies: [直连, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: 测试网站, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: 我的域名, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: 18comic, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: AI, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: 👨🏿‍💻 GitHub, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: 📲 外国社媒, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: BiliBili, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: 📹 YouTube, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: TikTok, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: Microsoft, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: 外国影视, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: Spotify, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: Nvidia, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: Steam, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: Games, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: Crypto, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: Apple, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: 🍀 Google, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: Block, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: 国外, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: 国内, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 🚀 默认代理, type: select, proxies: [直连, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 测试网站, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 我的域名, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 18comic, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: AI, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 👨🏿‍💻 GitHub, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 📲 外国社媒, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: BiliBili, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 📹 YouTube, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: TikTok, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: Microsoft, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 外国影视, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: Spotify, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: Nvidia, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: Steam, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: Games, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: Crypto, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: Apple, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 🍀 Google, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: Block, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 国外, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 国内, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
 
-  - {name: 全球直连, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
-  - {name: 🐟 漏网之鱼, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 全球直连, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: 🐟 漏网之鱼, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
 
 
 
@@ -148,7 +148,7 @@ proxy-groups:
   - {name: 手动中转, type: select, include-all: true}
 
 
-  - {name: 中转节点, type: select, proxies: [直连, 手动中转, 🚀 默认代理, 手动选择1, 手动选择2, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点]}
+  - {name: 中转节点, type: select, proxies: [直连, 手动中转, 🚀 默认代理, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点]}
   - {name: 落地节点, type: select, include-all: true, filter: "(?i)落地"}
 
 
@@ -156,16 +156,19 @@ proxy-groups:
   - {name: 🇯🇵 日本节点, type: select, proxies: [🇯🇵 日本手动, ♻️ 日本自动]}
   - {name: 🇸🇬 加坡节点, type: select, proxies: [🇸🇬 加坡手动, ♻️ 加坡自动]}
   - {name: 🇺🇲 美国节点, type: select, proxies: [🇺🇲 美国手动, ♻️ 美国自动]}
+  - {name: 自建节点, type: select, proxies: [自建手动, 自建自动]}
 
   - {name: 🇭🇰 香港手动, type: select, include-all: true, filter: "(?=.*(港|hk|hongkong|hong kong|(?i)Hong))^((?!(落地|台|日|韩|新|深|美)).)*$"}
   - {name: 🇯🇵 日本手动, type: select, include-all: true, filter: "(?=.*(日|JP|(?i)Japan))^((?!(落地|港|台|韩|新|美)).)*$"}
   - {name: 🇸🇬 加坡手动, type: select, include-all: true, filter: "(?=.*(新加坡|坡|狮城|SG|Singapore))^((?!(落地|港|台|韩|日|美)).)*$"}
   - {name: 🇺🇲 美国手动, type: select, include-all: true, filter: "(?=.*(美|US|(?i)States|America))^((?!(落地|港|台|日|韩|新)).)*$"}
+  - {name: 自建手动, type: select, include-all: true, filter: "(?=.*(自建))^((?!(落地)).)*$"}
 
   - {name: ♻️ 香港自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(港|HK|(?i)Hong))^((?!(落地|台|日|韩|新|深|美)).)*$"}
   - {name: ♻️ 日本自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(日|JP|(?i)Japan))^((?!(落地|港|台|韩|新|美)).)*$" }
   - {name: ♻️ 加坡自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(新加坡|坡|狮城|SG|Singapore))^((?!(落地|港|台|韩|日|美)).)*$" }
   - {name: ♻️ 美国自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(美|US|(?i)States|America))^((?!(落地|港|台|日|韩|新)).)*$"}
+  - {name: 自建自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(自建))^((?!(落地)).)*$"}
   - {name: ♻️ 自动选择, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(直连)).)*$"}
 
   - {name: 🌐 全部节点, type: select, include-all: true}
@@ -648,4 +651,5 @@ hosts:
   home.yjhup.vip: 100.100.99.1
 authentication:
 - Clash:xVNx8LwB
+
 
