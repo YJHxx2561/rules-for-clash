@@ -15,3 +15,4 @@ proxies:
   - {name: 🇯🇵 落地jp-hdy1212-http-8080, dialer-proxy: 中转节点, server: x-ui.hdy1212.jp.yjhup.com, port: 8080, type: http, username: 43kgJmCN0h, password: 6PwafWBbHH}
   - {name: 🇯🇵 落地jp-rbm-http-8080, dialer-proxy: 中转节点, server: x-ui.rbm.yjhup.com, port: 8080, type: http, username: 0mOuba7age, password: AN6F3f3mCG}
   - {name: 🇯🇵 落地jp-acck66.66-http-8080, dialer-proxy: 中转节点, server: 154.85.20.141, port: 8080, type: http, username: VsXO2EIsZn, password: 7S1Qe03BQB}
+  - {name: 🇯🇵 落地jp-qxy-http-8080, dialer-proxy: 中转节点, server: 82.26.73.87, port: 8080, type: http, username: GWfonPGdlL, password: KsBPLUwE44}
