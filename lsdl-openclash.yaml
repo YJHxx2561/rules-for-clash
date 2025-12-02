@@ -1,5 +1,5 @@
 proxy-providers:
-  自建节点:
+  自建:
     url: "https://substore.hk.yjhup.com/substore/download/zijian"
     type: http
     interval: 86400
@@ -651,5 +651,6 @@ hosts:
   home.yjhup.vip: 100.100.99.1
 authentication:
 - Clash:xVNx8LwB
+
 
 
