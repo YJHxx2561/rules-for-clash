@@ -17,3 +17,5 @@ proxies:
   - {name: 🇯🇵 落地jp-acck66.66-http-8080, dialer-proxy: 中转节点, server: 154.85.20.141, port: 8080, type: http, username: VsXO2EIsZn, password: 7S1Qe03BQB}
   - {name: 🇯🇵 落地jp-qxy-http-8080, dialer-proxy: 中转节点, server: 82.26.73.87, port: 8080, type: http, username: GWfonPGdlL, password: KsBPLUwE44}
   - {name: 🇯🇵 落地jp-qzy-http-8080, dialer-proxy: 中转节点, server: 38.175.200.154, port: 8080, type: http, username: Qy6SJG7Gki, password: 8Gr01cAmAh}
+  - {name: 🇯🇵 落地jp-acckSoftbank-http-8080, dialer-proxy: 中转节点, server: 143.14.107.12, port: 8080, type: http, username: um3t09aD8Q, password: aN3uvAAJzY
+ }
