@@ -108,7 +108,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   牛逼机场:
-    url: "https://substore.hk.yjhup.com/substore/download/luodi"
+    url: "https://substore.hk.yjhup.com/substore/download/nbjc"
     type: http
     interval: 86400
     health-check:
@@ -660,6 +660,7 @@ hosts:
   home.yjhup.vip: 100.100.99.1
 authentication:
 - Clash:xVNx8LwB
+
 
 
 
