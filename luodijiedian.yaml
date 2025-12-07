@@ -22,5 +22,6 @@ proxies:
   - {name: 🇯🇵 落地jp-acckSoftbank2-http-8080, dialer-proxy: 中转节点, server: 143.14.107.58, port: 8080, type: http, username: tqSA5Zxzc1, password: pHIy4tUfl5
  }
   - {name: 🇯🇵 落地jp-acckSoftbank3-http-8080, dialer-proxy: 中转节点, server: 143.14.107.68, port: 8080, type: http, username: 3NHRUv7QxZ, password: APsJ8QFvTl
- 
+ }
+  - {name: 🇯🇵 落地jp-acckSoftbank4-http-8080, dialer-proxy: 中转节点, server: 143.14.106.208, port: 8080, type: http, username: CRZnrFRqsz, password: mY6tVi7lrP
  }
