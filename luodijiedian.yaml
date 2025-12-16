@@ -6,8 +6,6 @@ proxies:
   - {name: 🇯🇵 落地jp-aws-vless, dialer-proxy: 中转节点, server: 54.178.28.138, port: 30056, type: vless, uuid: dd77d7ec-90ad-4d9d-a872-e5d4b2450f61, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: _Fby8AlzKNYswfccKFjDzLn3CNBZcaE2DJb0wxPkQUY, short-id: "fc6f5509" }, servername: apple.com, client-fingerprint: chrome, network: tcp}
   - {name: 🇯🇵 落地jp-fsyiij-ss, dialer-proxy: 中转节点, server: 158.51.110.22, port: 32525, type: ss, cipher: aes-256-gcm, password: T3pZRThtYWJhekFFV1FmOWJDRGJzd3gwRlMycmNqTm0=}
   - {name: 🇯🇵 落地jp-aws-ss, dialer-proxy: 中转节点, server: 54.178.28.138, port: 58274, type: ss, cipher: aes-256-gcm, password: TTZxamxENVBMMXFqaUxuYTdMRE1lYzYyZXh6ZTVNQ2g=}
-  - {name: 🇯🇵 落地jp-fsyiij-vless-ld, dialer-proxy: 中转节点, server: 158.51.110.22, port: 25258, type: vless, uuid: 61962521-98b2-4666-af85-b80bfc7d3071, tls: false, tfo: false, skip-cert-verify: false, network: tcp}
-  - {name: 🇯🇵 落地jp-fsyiij-sk5, dialer-proxy: 中转节点, server: 158.51.110.22, port: 57042, type: socks5, username: zZOGLheQgG, password: he8yTlytiV}
   - {name: 🇯🇵 落地jp-fsyiij-http, dialer-proxy: 中转节点, server: 158.51.110.22, port: 57033, type: http, username: 7iRHASA9IJ, password: UsoI6uhSJv}
   - {name: 🇯🇵 落地jp-fsyiij-http-8080, dialer-proxy: 中转节点, server: 158.51.110.22, port: 8080, type: http, username: If7UyBJ8Nf, password: oOEKRm2IBi}
   - {name: 🇯🇵 落地jp-akile-http-8080, dialer-proxy: 中转节点, server: 154.83.95.35, port: 8080, type: http, username: O0o2Kubzvb, password: DSGjqrwnaz}
