@@ -8,7 +8,7 @@ proxies:
   - {name: 🇯🇵 落地jp-fsyiij-http-op, dialer-proxy: 中转节点, server: jpfsyiij.024682.xyz, port: 8080, type: http, username: openwrt, password: x8zOr2zS5w}
   - {name: 🇯🇵 落地jp-akile-http-8080, dialer-proxy: 中转节点, server: 154.83.95.35, port: 8080, type: http, username: O0o2Kubzvb, password: DSGjqrwnaz}
   - {name: 🇯🇵 落地jp-akile-http-32016, dialer-proxy: 中转节点, server: 154.83.95.35, port: 32016, type: http, username: yRQ5yuuQ4H, password: Fh8kNDdvTg}
-  - {name: 🇯🇵 落地jp-akile7.3-http-8080, dialer-proxy: 中转节点, server: 45.192.249.213, port: 8080, type: http, username: 97yzVMFWQy, password: YjXecAxgLZ}
+  - {name: 🇯🇵 落地jp-akile7.3-http-8080, dialer-proxy: 中转节点, server: 45.192.249.213, port: 8080, type: http, username: openwrt, password: mrA7GuOzyO}
   - {name: 🇯🇵 落地jp-hdy1212-http-8080, dialer-proxy: 中转节点, server: x-ui.hdy1212.jp.yjhup.com, port: 8080, type: http, username: 43kgJmCN0h, password: 6PwafWBbHH}
   - {name: 🇯🇵 落地jp-rbm-http-8080, dialer-proxy: 中转节点, server: x-ui.rbm.yjhup.com, port: 8080, type: http, username: 0mOuba7age, password: AN6F3f3mCG}
   - {name: 🇯🇵 落地jp-acck66.66-http-8080, dialer-proxy: 中转节点, server: 154.85.20.141, port: 8080, type: http, username: VsXO2EIsZn, password: 7S1Qe03BQB}
