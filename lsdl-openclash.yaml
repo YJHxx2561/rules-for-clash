@@ -130,6 +130,7 @@ proxy-groups:
   - {name: 18comic, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
   - {name: AI, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
   - {name: 👨🏿‍💻 GitHub, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
+  - {name: Telegram, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
   - {name: 📲 外国社媒, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
   - {name: BiliBili, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
   - {name: 📹 YouTube, type: select, proxies: [直连, 🚀 默认代理, 落地节点, 手动选择1, 手动选择2, 自建节点, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇸🇬 加坡节点, 🇺🇲 美国节点, 🌐 全部节点, 拒绝]}
@@ -201,8 +202,8 @@ rules:
   - RULE-SET,Grok / Domain,AI
   - RULE-SET,Reddit / Domain,📲 外国社媒
   - RULE-SET,GitHub / Domain,👨🏿‍💻 GitHub
-  - RULE-SET,Telegram / Domain,📲 外国社媒
-  - RULE-SET,Telegram / IP,📲 外国社媒,no-resolve
+  - RULE-SET,Telegram / Domain,Telegram
+  - RULE-SET,Telegram / IP,Telegram,no-resolve
   - RULE-SET,WhatsApp / Domain,📲 外国社媒
   - RULE-SET,Facebook / Domain,📲 外国社媒
   - RULE-SET,Twitter / Domain,📲 外国社媒
