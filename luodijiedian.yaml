@@ -1,9 +1,7 @@
 proxies:
   - {name: JP-落地-fsy-nat, dialer-proxy: 中转节点, server: 158.51.110.74, port: 22561, type: vless, uuid: bb1e3386-3ded-4003-ae0c-a8b0aac98326, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: qtlW7HHNazWIrZCMmoODemF1faXGqO9HJeflUxk_YUQ, short-id: "33001b33" }, servername: apple.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇯🇵 落地jp-fsy2-vless-openwrt-22571-xgt3r92p, dialer-proxy: 中转节点, server: 158.51.110.74, port: 22571, type: ss, cipher: 2022-blake3-aes-256-gcm, password: 7YmS2W3o2wl1WqX+LXijLj6VD/zce5KQeykYAXAIEGU=:DM6treL5t3GcnuY/qP8svNjSkHZCrQjpB2CszTtNdDI=}
+  - {name: 🇯🇵 落地jp-fsy2-vless-op, dialer-proxy: 中转节点, server: 158.51.110.74, port: 22571, type: ss, cipher: 2022-blake3-aes-256-gcm, password: 7YmS2W3o2wl1WqX+LXijLj6VD/zce5KQeykYAXAIEGU=:DM6treL5t3GcnuY/qP8svNjSkHZCrQjpB2CszTtNdDI=}
   - {name: 🇩🇪 落地DE-jiavps-vless, dialer-proxy: 中转节点, server: 77.90.2.34, port: 22561, type: vless, uuid: c06591ba-b87c-4c9d-91ff-e3f4d26f14a4, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: Cs8exNtB3B1zOojymXejOqJ16A05iJJwEkeSK7I7Rxw, short-id: "bfe722ee" }, servername: apple.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇯🇵 落地jp-aws-vless, dialer-proxy: 中转节点, server: 54.178.28.138, port: 30056, type: vless, uuid: dd77d7ec-90ad-4d9d-a872-e5d4b2450f61, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: _Fby8AlzKNYswfccKFjDzLn3CNBZcaE2DJb0wxPkQUY, short-id: "fc6f5509" }, servername: apple.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇯🇵 落地jp-aws-ss, dialer-proxy: 中转节点, server: 54.178.28.138, port: 58274, type: ss, cipher: aes-256-gcm, password: TTZxamxENVBMMXFqaUxuYTdMRE1lYzYyZXh6ZTVNQ2g=}
   - {name: 🇯🇵 落地jp-fsyiij-https-op, dialer-proxy: 中转节点, server: jpfsyiij.024682.xyz, port: 443, type: https, username: openwrt, password: x8zOr2zS5w}
   - {name: 🇯🇵 落地jp-fsyiij-http-op, dialer-proxy: 中转节点, server: jpfsyiij.024682.xyz, port: 8080, type: http, username: openwrt, password: x8zOr2zS5w}
   - {name: 🇯🇵 落地jp-akile-http-8080, dialer-proxy: 中转节点, server: 154.83.95.35, port: 8080, type: http, username: O0o2Kubzvb, password: DSGjqrwnaz}
@@ -14,11 +12,7 @@ proxies:
   - {name: 🇯🇵 落地jp-acck66.66-http-8080, dialer-proxy: 中转节点, server: 154.85.20.141, port: 8080, type: http, username: VsXO2EIsZn, password: 7S1Qe03BQB}
   - {name: 🇯🇵 落地jp-qxy-http-8080, dialer-proxy: 中转节点, server: 82.26.73.87, port: 8080, type: http, username: GWfonPGdlL, password: KsBPLUwE44}
   - {name: 🇯🇵 落地jp-qzy-http-8080, dialer-proxy: 中转节点, server: 38.175.200.154, port: 8080, type: http, username: Qy6SJG7Gki, password: 8Gr01cAmAh}
-  - {name: 🇯🇵 落地jp-acckSoftbank-http-8080, dialer-proxy: 中转节点, server: 143.14.107.12, port: 8080, type: http, username: um3t09aD8Q, password: aN3uvAAJzY
- }
-  - {name: 🇯🇵 落地jp-acckSoftbank2-http-8080, dialer-proxy: 中转节点, server: 143.14.107.58, port: 8080, type: http, username: tqSA5Zxzc1, password: pHIy4tUfl5
- }
-  - {name: 🇯🇵 落地jp-acckSoftbank3-http-8080, dialer-proxy: 中转节点, server: 143.14.107.68, port: 8080, type: http, username: 3NHRUv7QxZ, password: APsJ8QFvTl
- }
-  - {name: 🇯🇵 落地jp-acckSoftbank4-http-8080, dialer-proxy: 中转节点, server: 143.14.106.208, port: 8080, type: http, username: CRZnrFRqsz, password: mY6tVi7lrP
- }
+  - {name: 🇯🇵 落地jp-acckSoftbank-http-8080, dialer-proxy: 中转节点, server: 143.14.107.12, port: 8080, type: http, username: um3t09aD8Q, password: aN3uvAAJzY}
+  - {name: 🇯🇵 落地jp-acckSoftbank2-http-8080, dialer-proxy: 中转节点, server: 143.14.107.58, port: 8080, type: http, username: tqSA5Zxzc1, password: pHIy4tUfl5}
+  - {name: 🇯🇵 落地jp-acckSoftbank3-http-8080, dialer-proxy: 中转节点, server: 143.14.107.68, port: 8080, type: http, username: 3NHRUv7QxZ, password: APsJ8QFvTl}
+  - {name: 🇯🇵 落地jp-acckSoftbank4-http-8080, dialer-proxy: 中转节点, server: 143.14.106.208, port: 8080, type: http, username: CRZnrFRqsz, password: mY6tVi7lrP}
