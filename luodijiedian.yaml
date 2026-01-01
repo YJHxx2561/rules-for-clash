@@ -6,13 +6,7 @@ proxies:
   - {name: 🇯🇵 落地jp-fsyiij-http-op, dialer-proxy: 中转节点, server: jpfsyiij.024682.xyz, port: 8080, type: http, username: openwrt, password: x8zOr2zS5w}
   - {name: 🇯🇵 落地jp-akile-http-8080, dialer-proxy: 中转节点, server: 154.83.95.35, port: 8080, type: http, username: O0o2Kubzvb, password: DSGjqrwnaz}
   - {name: 🇯🇵 落地jp-akile-http-32016, dialer-proxy: 中转节点, server: 154.83.95.35, port: 32016, type: http, username: yRQ5yuuQ4H, password: Fh8kNDdvTg}
-  - {name: 🇯🇵 落地jp-akile7.3-http-8080, dialer-proxy: 中转节点, server: 45.192.249.213, port: 8080, type: http, username: openwrt, password: mrA7GuOzyO}
-  - {name: 🇯🇵 落地jp-hdy1212-http-8080, dialer-proxy: 中转节点, server: x-ui.hdy1212.jp.yjhup.com, port: 8080, type: http, username: 43kgJmCN0h, password: 6PwafWBbHH}
-  - {name: 🇯🇵 落地jp-rbm-http-8080, dialer-proxy: 中转节点, server: x-ui.rbm.yjhup.com, port: 8080, type: http, username: 0mOuba7age, password: AN6F3f3mCG}
+  - {name: 🇯🇵 落地jp-akile7.3-http-8080, dialer-proxy: 中转节点, server: 45.192.249.213, port: 8080, type: http, username: openwrt, password: mrA7GuOzyO}}
   - {name: 🇯🇵 落地jp-acck66.66-http-8080, dialer-proxy: 中转节点, server: 154.85.20.141, port: 8080, type: http, username: VsXO2EIsZn, password: 7S1Qe03BQB}
   - {name: 🇯🇵 落地jp-qxy-http-8080, dialer-proxy: 中转节点, server: 82.26.73.87, port: 8080, type: http, username: GWfonPGdlL, password: KsBPLUwE44}
   - {name: 🇯🇵 落地jp-qzy-http-8080, dialer-proxy: 中转节点, server: 38.175.200.154, port: 8080, type: http, username: Qy6SJG7Gki, password: 8Gr01cAmAh}
-  - {name: 🇯🇵 落地jp-acckSoftbank-http-8080, dialer-proxy: 中转节点, server: 143.14.107.12, port: 8080, type: http, username: um3t09aD8Q, password: aN3uvAAJzY}
-  - {name: 🇯🇵 落地jp-acckSoftbank2-http-8080, dialer-proxy: 中转节点, server: 143.14.107.58, port: 8080, type: http, username: tqSA5Zxzc1, password: pHIy4tUfl5}
-  - {name: 🇯🇵 落地jp-acckSoftbank3-http-8080, dialer-proxy: 中转节点, server: 143.14.107.68, port: 8080, type: http, username: 3NHRUv7QxZ, password: APsJ8QFvTl}
-  - {name: 🇯🇵 落地jp-acckSoftbank4-http-8080, dialer-proxy: 中转节点, server: 143.14.106.208, port: 8080, type: http, username: CRZnrFRqsz, password: mY6tVi7lrP}
