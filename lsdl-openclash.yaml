@@ -9,7 +9,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   落地节点:
-    url: "https://substore.hk.yjhup.com/substore/download/collection/ldjd-zh"
+    url: "https://github.hk.yjhup.com/https://raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/luodijiedian.yaml"
     type: http
     interval: 86400
     health-check:
@@ -670,6 +670,7 @@ hosts:
   home.yjhup.vip: 100.100.99.1
 authentication:
 - Clash:xVNx8LwB
+
 
 
 
