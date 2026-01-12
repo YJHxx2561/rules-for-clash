@@ -116,6 +116,15 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 直连
+  skylumo:
+    url: "http://144.24.239.56/api/v1/client/subscribe?token=f4f4fc07e5c14893b7d7224d6d73bd44"
+    type: http
+    interval: 86400
+    health-check:
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 300
+    proxy: 直连
 
     
 proxies:
