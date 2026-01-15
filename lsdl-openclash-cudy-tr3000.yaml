@@ -606,11 +606,6 @@ dns:
 
   use-hosts: true
 
-  direct-nameserver:
-  - 223.5.5.5
-  - 223.6.6.6
-  - 114.114.114.114
-  - 1.2.4.8
 
 redir-port: 7892
 tproxy-port: 7895
@@ -660,20 +655,6 @@ sniffer:
   - "+.sunlogin.net"
   - "+.push.apple.com"
   parse-pure-ip: true
-tun:
-  enable: true
-  stack: mixed
-  device: utun
-  dns-hijack:
-  - 223.5.5.5
-  - 223.6.6.6
-  - 114.114.114.114
-  - 1.2.4.8
-  endpoint-independent-nat: true
-  auto-route: false
-  auto-detect-interface: false
-  auto-redirect: false
-  strict-route: false
 profile:
   store-selected: true
   store-fake-ip: true
