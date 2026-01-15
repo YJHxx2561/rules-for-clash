@@ -607,7 +607,7 @@ dns:
   use-hosts: true
 
   direct-nameserver:
-  - 127.0.0.1:5533
+  - 223.5.5.5
 
 redir-port: 7892
 tproxy-port: 7895
