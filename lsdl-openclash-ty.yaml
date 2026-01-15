@@ -608,6 +608,9 @@ dns:
 
   direct-nameserver:
   - 223.5.5.5
+  - 223.6.6.6
+  - 114.114.114.114
+  - 1.2.4.8
 
 redir-port: 7892
 tproxy-port: 7895
