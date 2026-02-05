@@ -1,6 +1,6 @@
 proxy-providers:
   自建:
-    url: "https://github.hk.yjhup.com/raw.githubusercontent.com/YJHxx2561/rules-for-clash/refs/heads/main/zijianjiedian.yaml"
+    url: "https://substore.hk.yjhup.com/substore/download/zj"
     type: http
     interval: 86400
     health-check:
