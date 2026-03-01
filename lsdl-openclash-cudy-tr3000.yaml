@@ -117,7 +117,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   skylumo:
-    url: "http://144.24.239.56/api/v1/client/subscribe?token=f4f4fc07e5c14893b7d7224d6d73bd44"
+    url: "https://substore.hk.yjhup.com/substore/download/skylumo"
     type: http
     interval: 86400
     health-check:
