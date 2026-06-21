@@ -6,6 +6,8 @@ DOMAIN-KEYWORD,zerotier
 DOMAIN-SUFFIX,anich.sends.eu.org
 DOMAIN-SUFFIX,img.emmmm.eu.org
 DOMAIN-SUFFIX,emmmm.eu.org
+DOMAIN-SUFFIX,cnvod.cachefly.net
+
 
 #服务器ip
 IP-CIDR,154.82.136.181/32,no-resolve
